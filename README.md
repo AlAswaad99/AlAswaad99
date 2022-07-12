@@ -1,7 +1,7 @@
 Hi 👋 My name is Daniel Terefe
 ==============================
 
-Web/Mobile Developer
+Web/Mobile Developer - Game Enthusiast
 --------------------
 
 👋 Hi, I’m Daniel Terefe, A Software Developer living in Addis Ababa, Ethiopia with a knack for Mobile/Web Frontend Development
