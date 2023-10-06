@@ -1,16 +1,16 @@
 Hi 👋 My name is Daniel Terefe
 ==============================
 
-Web/Mobile Developer - Game Enthusiast
+Web/Mobile Developer - Cloud Practitioner - Game Enthusiast
 --------------------
 
-👋 Hi, I’m Daniel Terefe, A Software Developer living in Addis Ababa, Ethiopia with a knack for Mobile/Web Frontend Development
+👋 Hi, I’m Daniel Terefe, A Software Developer living in Addis Ababa, Ethiopia with a knack for Mobile/Web Frontend Development and Cloud
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * ✉️  You can contact me at [dannyboy9917@gmail.com](mailto:dannyboy9917@gmail.com)
-* 🧠  I'm learning Electron + React and React + threeJS/Spline Projects
+* 🧠  I'm learning Azure + Microservices + threeJS/Spline Projects
 * 🤝  I'm open to collaborating on projects that include mobile app development and also game design and development
-* ⚡  I am also a game enthusiast and am trying to extend my knowledge on Game Dev
+* ⚡  I am also a game enthusiast and am trying to extend my knowledge on Game Dev using Unity
 
 ### Skills
 
